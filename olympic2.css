@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url("https://img.kyodonews.net/english/public/images/posts/3d3484fe73fa754606fabcfe2c01375d/photo_l.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+}
+p{
+    
+    padding: 8px;
+    margin-top: 0px;
+    font-size: 19px;
+    font-weight: 500;
+    justify-content: left;
+    align-items: center;
+    text-align: justify;
+}
+h1{
+    margin-top: 22px;
+    font-size: 24px;
+    font-weight: 900;
+    text-align: center;
+    color: black;
+    padding: 8px;
+    
+}
+h3{
+    font-size: 18px;
+    padding: 8px;
+   
+}
+ol{
+    padding: 8px;
+    font-weight: bolder;
+}
